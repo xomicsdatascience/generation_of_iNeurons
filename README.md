@@ -10,3 +10,6 @@ First, using single-cell proteomics, we found that spontaneous mCherry silencing
 Second, bulk proteomics and immunofluorescence analysis indicated that iNeurons from iPSCs expressing or lacking mCherry both resemble cortical glutamatergic neurons. 
 The primary confounding factor in iNeuron generation was that suboptimal neuronal conversion led to cell aggregates comprised of actively proliferating neuronal progenitor cells and astrocytes as the culture developed. 
 Our results indicate that extended NGN2 dosage substantially improves neuron purity.
+
+## biorxiv link
+[to be uploaded]
